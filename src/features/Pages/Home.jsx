@@ -82,7 +82,7 @@ function Home() {
                             <table className="table table-hover">
                                 <thead>
                                     <tr>
-                                        <th>Id.</th>
+                                        <th>Id</th>
                                         <th>Name</th>
                                         <th>Email</th>
                                         <th>Password</th>
