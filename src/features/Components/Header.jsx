@@ -6,8 +6,8 @@ function Header() {
         <div>
            
             <div className="p-5 bg-primary text-white text-center">
-                <h1>My First Bootstrap 5 Page</h1>
-                <p>Resize this responsive page to see the effect!</p>
+                <h1>Hello.... Manoj Singh</h1>
+                <p>Welcome to Redux_crud</p>
             </div>
             <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
                 <div className="container-fluid">
